@@ -21,6 +21,7 @@
 <div class="wrap">
 	<div class="wpadcenter_settings_left">
 		<div class="wpadcenter-tab-container">
+			<h1>HELLO ADCENTER</h1>
 			<form method="post" action="
 			<?php
 			if ( isset( $_SERVER['REQUEST_URI'] ) ) {
